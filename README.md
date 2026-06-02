@@ -8,6 +8,8 @@ Currently, the AI solver's dataset is being built, now with a properly functioni
 ### Source Code
 The linked google colab document currently includes all the code, but is yet to be finished with work still pending.
 <br><br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FUMbZyejvS7NbEgfQvnpWMq2WYw4fr4p?usp=sharing)
+### Dataset
+Currently, due to pending code refinement, the training datset for the AI solver is yet to be made. However, there is a dataset of all 3,149,281 scrambles for Skewb in the form of move sequnces, apart from the solved state. <br> "All_Skewb_Scrambles.txt" <br> NOTE: the move sequences are represented as lists, with 0, 1, 2, 3, 4, 5, 6 & 7 representing the moves R, R', U, U', L, L', B & B' respectively.
 ### Documentation 
 As being built, there is documentation (STILL UNDER WRITING) of this project for other cubers or programmers can look and understand the code.
 Link: https://docs.google.com/document/d/1igAciW4ZtA64zY8kHKLQXgYLZfOa5l3MIsYIAjJpdZ0/edit?usp=sharing
