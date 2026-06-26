@@ -2,7 +2,7 @@
 This is a project that aims to find efficient or optimal solutions for solving the puzzle skewb by creating efficient AI solvers and finding patterns in it's logic.
 
 ## What is currently being done
-Currently, the AI solver's dataset is being built, now with a properly functioning and accurate BFS, the saving loop in the BFS is still yet to be tuned
+Currently, the AI solver's dataset buihas been lt but code is being written for it to be properly read, loaded in, formatted and saved before beginning to train the AI model.
 
 ## Important Files
 ### Source Code
