@@ -13,3 +13,13 @@ Currently, due to pending code refinement, the training datset for the AI solver
 ### Documentation 
 As being built, there is documentation (STILL UNDER WRITING) of this project for other cubers or programmers can look and understand the code.
 Link: https://docs.google.com/document/d/1igAciW4ZtA64zY8kHKLQXgYLZfOa5l3MIsYIAjJpdZ0/edit?usp=sharing
+### skewb-sim
+This folder includes all the resource files for the skewbsim library and is organized in a proper manned for it to act as a library!
+## Library 
+Through this project, a library has been created that allows for the simulation of a skewb as a vector, allowing for it's users to simulate a skewb by performing turns, gaining access to the skewb's state and each face individually!
+### Install it in your Virtual Environment!
+```
+pip install skewbsim
+```
+### Check it out!
+[Visit PyPi](https://pypi.org/project/skewbsim/1.0.0/)
