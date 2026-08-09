@@ -2,7 +2,7 @@
 This is a project that aims to find efficient or optimal solutions for solving the puzzle skewb by creating efficient AI solvers and finding patterns in it's logic.
 
 ## What is currently being done
-Currently, the AI solver's dataset buihas been lt but code is being written for it to be properly read, loaded in, formatted and saved before beginning to train the AI model.
+A reinforcement model is currently under development. A plan has been made on how the environment is to be setup and how the cost/reward function will be calculated.
 
 ## Important Files
 ### Source Code
